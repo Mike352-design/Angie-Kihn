@@ -83,7 +83,7 @@ async function start() {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "KHAN-MD whatsapp user bot" };
+                return { conversation: "GRACIE-MD whatsapp user bot" };
             }
         });
 
@@ -95,8 +95,8 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("Connected Successfully KHAN-MD 🤍"));
-                    Matrix.sendMessage(Matrix.user.id, { text: `Connected Successfully KHAN-MD 🤍` });
+                    console.log(chalk.green("Connected Successfully GRACIE-MD 🤍"));
+                    Matrix.sendMessage(Matrix.user.id, { text: `Connected Successfully GRACIE-MD 🤍` });
                     initialConnection = false;
                 } else {
                     console.log(chalk.blue("♻️ Connection reestablished after restart."));
@@ -143,7 +143,7 @@ async function start() {
             await Matrix.readMessages([mek.key]);
             
             if (config.AUTO_STATUS_REPLY) {
-                const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By KHAN-MD';
+                const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By GRACIE-MD';
                 await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
             }
         }
