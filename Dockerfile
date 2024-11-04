@@ -1,4 +1,4 @@
-FROM node:lts-buster
+FROM node:index.js
 
 RUN apt-get update && \
   apt-get install -y \
