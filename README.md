@@ -1,11 +1,11 @@
-<h1 align="center">BELTAH-MD BOT</h1>
+<h1 align="center">GRACIE-MD BOT</h1>
 <p align="center">  
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +SCENE-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH;RELEASED+18.10.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +GRACIE-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GRACIE+TECH;RELEASED+03.11.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="BELTAH-MD" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
+    <img alt="GRACIE-MD" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/Beltahk/SCENE-MRM"><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
@@ -25,11 +25,11 @@
 `PLAY CMD`
 `VIDEO CMD`
 `AND MANY MORE`
-✅ KEEP USING BELTAH-MD ✅
+✅ KEEP USING GRACIE-MD ✅
 
 #### SETUP PROCEDURE
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Huaweike/AUTOMATIC-BOT/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Mike352-design/Angie-Kihn/fork) It***
 
 ***2.`Get Session ID` by  [`PAIRING CODE`](https://bel-tah-sns.onrender.com/pair) or [`PAIR CODE 2`](https://bel-tah-sns.onrender.com/)***
 
@@ -58,7 +58,7 @@ allowed! For we shall not offer any help if any error occur!
 ***
 ### HELP :
 **IF you need any help**
-- [**CLICK HERE**](https:wa.me/254114141192)
+- [**CLICK HERE**](https:wa.me/254743624539)
 
 
 ***
@@ -66,7 +66,7 @@ allowed! For we shall not offer any help if any error occur!
 ### THANKS TO:
 GOD THE CREATOR ❤️
 ### THANKS TO:
-- [***Beltah Tech 254 🇰🇪***](https://github.com/Beltahtech) For several Cmds Addition.
+- [***ALVIN Tech 254 🇰🇪***](https://github.com/MIke352-design) For several Cmds Addition.
 - [***France King***](https://github.com/franceking1) For several latest Cmd scripts.
 - [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **BELTAH-MD**
 
@@ -75,4 +75,4 @@ GOD THE CREATOR ❤️
 
 
 
-BELTAH-MD BOT ©️ 2024 
+GRACIE-MD BOT ©️ 2024 
